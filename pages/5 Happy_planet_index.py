@@ -1,7 +1,7 @@
 from helper_functions import *
 
 st.title('Корреляция между реальной заработной платой в Образовании и индексом счастья')
-st.markdown("#### [Индекс счастья планеты]('https://happyplanetindex.org/countries/')")
+st.markdown("#### [Индекс счастья планеты](https://happyplanetindex.org/countries/)")
 
 r_s_edu = [6296, 8053, 10116, 11735, 12936, 14533, 17902, 22009, 24294, 24181, 24876, 28713, 33516, 35553, 38392]
 df_hpi = read_data('hpi')
