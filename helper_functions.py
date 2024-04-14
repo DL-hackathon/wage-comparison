@@ -5,7 +5,7 @@ from bokeh.models import LinearAxis, Range1d
 from bokeh.plotting import figure
 
 
-def help_info() -> None:
+def help_info() -> str:
     return f'This file contains helper functions for main code of streamlit application'
 
 
