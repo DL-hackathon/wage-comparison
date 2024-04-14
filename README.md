@@ -1,5 +1,4 @@
-# Salary-comparison-project
-<<<<<<< HEAD
+# Wage comparison project
 
 ### Course: Start in Data Science
 
@@ -14,22 +13,16 @@
 ### [_Real wage: methodology of calculation_](https://fedstat.ru/indicator/43245#)
 ### Task: Analyze the dynamics of average wages by type of economic activity in Russia within 2000-2023.   
 
-
 ### Resulting plots in Streamlit app
 * ### Nominal wages
-![Nominal wages]('images/nominal_wages.png')
+![Nominal wages](https://github.com/DL-hackathon/wage-comparison/blob/main/images/nominal_wages.png)
 * ### Inflaton rate
-![Inflaton rate]('images/Inflation.png')
+![Inflaton rate](https://github.com/DL-hackathon/wage-comparison/blob/main/images/Inflation.png)
 * ### Real wages in Construction
-![Real_wage_Construction]('images/real_wage_Construction.png')
+![Real_wage_Construction](https://github.com/DL-hackathon/wage-comparison/blob/main/images/real_wage_Construction.png)
 * ### Real wages in HoReCa
-![Real wage in HoReCa]('images/real_wage_HoReCa.png')
+![Real wage in HoReCa](https://github.com/DL-hackathon/wage-comparison/blob/main/images/real_wage_HoReCa.png)
 * ### Real wages in Education
-![Real wage in Edu]('images/real_wage_Edu.png')
+![Real wage in Edu](https://github.com/DL-hackathon/wage-comparison/blob/main/images/real_wage_Edu.png)
 * ### Happy Planet Index
-![HPI]('images/HPI.png')
-
-
-=======
-# In progress... Will be pushed after 14 Apr 2024
->>>>>>> b54dbdc2986b32f7a88bd8f08d6ccb20ea97793a
+![HPI](https://github.com/DL-hackathon/wage-comparison/blob/main/images/HPI.png)
