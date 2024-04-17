@@ -13,7 +13,7 @@
 ### [_Real wage: methodology of calculation_](https://fedstat.ru/indicator/43245#)
 ### Task: Analyze the dynamics of average wages by type of economic activity in Russia within 2000-2023.   
 
-### Resulting plots in Streamlit app
+### Resulting plots in [Streamlit app](https://wage-comparison-qgsrq67k5o8xjakknfscsn.streamlit.app/)
 * ### Nominal wages
 ![Nominal wages](https://github.com/DL-hackathon/wage-comparison/blob/main/images/nominal_wages.png)
 * ### Inflaton rate
